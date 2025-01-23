@@ -49,12 +49,12 @@
     <div class="container">
         <h1>To Someone Special</h1>
         <p>Dear Jazara Akela Holder,</p>
-        <p>Since you came into my life you brought me warmth and joy even to the simplest moments is something I deeply cherish. And It’s incredible how it all started with one single message.</p>
-        <p>What I admire most about you is the ease and comfort you bring whenever were together. Whether we’re laughing or sitting in silence, there’s always a sense of connection that feels loving and genuine And i just want you to know how much you mean to me.Your kindness... sometimes, Your humor, and the way you see things not everyone can see i just inspire everything about you and just wanted to let you know i love you.</p>
-        <p>Ps Will you be my vallentines :).</p>
+        <p>Since you came into my life, you’ve brought warmth and joy to even the simplest moments. It’s incredible how it all started with a single message.</p>
+        <p>What I admire most about you is the ease and comfort you bring whenever we’re together. Whether we’re laughing or sitting in silence, there’s always a sense of connection that feels loving and genuine. I want you to know how much you mean to me. Your kindness, your humor, and the way you see things that others often overlook inspire me every day. I just wanted to let you know: I love you.</p>
+        <p>PS: Will you be my Valentine? :)</p>
         <footer>
             Yours always,<br>
-            [Your Jaquon]
+            Jaquon
         </footer>
     </div>
 </body>
